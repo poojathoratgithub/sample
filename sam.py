@@ -69,3 +69,7 @@ btnSignUp.grid(row=2,column=2,padx=20)
 frame1.mainloop()
 window.mainloop()
 
+
+
+# git checkout -b newb_branch_name current_branch_name
+
